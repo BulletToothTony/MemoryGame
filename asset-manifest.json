@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MemoryGame/static/css/main.8b4e3d87.chunk.css",
+    "main.js": "/MemoryGame/static/js/main.add05ec6.chunk.js",
+    "main.js.map": "/MemoryGame/static/js/main.add05ec6.chunk.js.map",
+    "runtime-main.js": "/MemoryGame/static/js/runtime-main.bba6efc0.js",
+    "runtime-main.js.map": "/MemoryGame/static/js/runtime-main.bba6efc0.js.map",
+    "static/js/2.cb28139c.chunk.js": "/MemoryGame/static/js/2.cb28139c.chunk.js",
+    "static/js/2.cb28139c.chunk.js.map": "/MemoryGame/static/js/2.cb28139c.chunk.js.map",
+    "index.html": "/MemoryGame/index.html",
+    "static/css/main.8b4e3d87.chunk.css.map": "/MemoryGame/static/css/main.8b4e3d87.chunk.css.map",
+    "static/js/2.cb28139c.chunk.js.LICENSE.txt": "/MemoryGame/static/js/2.cb28139c.chunk.js.LICENSE.txt",
+    "static/media/aerodactyl.0d5ca3f0.jpg": "/MemoryGame/static/media/aerodactyl.0d5ca3f0.jpg",
+    "static/media/alakazam.817b30da.jpg": "/MemoryGame/static/media/alakazam.817b30da.jpg",
+    "static/media/charmander.06a41048.jpg": "/MemoryGame/static/media/charmander.06a41048.jpg",
+    "static/media/diglett.f961142f.jpg": "/MemoryGame/static/media/diglett.f961142f.jpg",
+    "static/media/gengar.acbb485a.jpg": "/MemoryGame/static/media/gengar.acbb485a.jpg",
+    "static/media/gyarados.71bf9f50.jpg": "/MemoryGame/static/media/gyarados.71bf9f50.jpg",
+    "static/media/mewtwo.542aa56c.jpg": "/MemoryGame/static/media/mewtwo.542aa56c.jpg",
+    "static/media/pikachu.af952e21.jpg": "/MemoryGame/static/media/pikachu.af952e21.jpg",
+    "static/media/snorlax.dba14ad0.jpg": "/MemoryGame/static/media/snorlax.dba14ad0.jpg",
+    "static/media/squirtle.14ad7b5f.jpg": "/MemoryGame/static/media/squirtle.14ad7b5f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bba6efc0.js",
+    "static/js/2.cb28139c.chunk.js",
+    "static/css/main.8b4e3d87.chunk.css",
+    "static/js/main.add05ec6.chunk.js"
+  ]
+}
